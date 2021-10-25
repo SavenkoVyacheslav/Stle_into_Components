@@ -1,2 +1,2 @@
-# Stle_into_Components
+# Styles_into_Components
 Created with CodeSandbox
